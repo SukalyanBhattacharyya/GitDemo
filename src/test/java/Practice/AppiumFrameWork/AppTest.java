@@ -16,5 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        System.out.println("GitCodePushPull 1");
+        System.out.println("GitCodePushPull 2");
     }
 }
